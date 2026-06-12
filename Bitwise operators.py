@@ -1,0 +1,5 @@
+print(78 & 56)   
+print(255 | 90)   
+print(5 ^ 3)         
+print(8 << 77)  
+print(566 >> 879)  
